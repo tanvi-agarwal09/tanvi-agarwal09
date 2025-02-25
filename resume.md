@@ -3,6 +3,6 @@ Tanvi Agarwal
 
 ## Education
 - BS Computer Science at Northeastern University
-- May 2028
+- Sep 2024 - May 2028
 
 
